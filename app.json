@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ClickRace",
+    "slug": "snack-bb66fdfa-9522-4467-9b4b-f97838733009",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.rainan.snackbb66fdfa952244679b4bf97838733009",
+      "versionCode": 2
+    }
+  }
+}
